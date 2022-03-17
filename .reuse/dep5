@@ -1,0 +1,21 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Rust
+Source: https://github.com/rust-lang/rust
+
+Files: src/llvm-project/*
+Copyright: LLVM contributors
+Copyright: University of Illinois at Urbana-Champaign
+License: NCSA AND (Apache-2.0 WITH LLVM-exception)
+
+Files: src/llvm-project/compiler-rt/*
+Copyright: LLVM contributors
+Copyright: University of Illinois at Urbana-Champaign
+License: (MIT OR NCSA) AND (Apache-2.0 WITH LLVM-exception)
+
+Files: src/tools/rust-analyzer/
+Copyright: The rust-analyzer authors
+License: MIT OR Apache-2.0
+
+Files: *
+Copyright: The Rust Project authors (see https://thanks.rust-lang.org)
+License: MIT OR Apache-2.0
