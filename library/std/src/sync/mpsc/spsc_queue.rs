@@ -1,3 +1,7 @@
+// SPDX-License-Identifier: BSD-2-Clause AND (MIT OR Apache-2.0)
+// SPDX-FileCopyrightText: 2010-2011 Dmitry Vyukov
+// SPDX-FileCopyrightText: The Rust Project authors (see https://thanks.rust-lang.org)
+
 //! A single-producer single-consumer concurrent queue
 //!
 //! This module contains the implementation of an SPSC queue which can be used
