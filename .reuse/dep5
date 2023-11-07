@@ -67,6 +67,15 @@ Copyright: 2016 The Fuchsia Authors
            The Rust Project Developers (see https://thanks.rust-lang.org)
 License: BSD-2-Clause AND (MIT OR Apache-2.0)
 
+Files: library/stdarch/crates/intrinsic-test/acle/*
+Copyright: Arm Limited and its affiliates
+License: CC-BY-SA-4.0
+# TODO: they actually have a custom patent clause
+
+Files: library/stdarch/crates/intrinsic-test/acle/tools/*
+Copyright: Arm Limited and its affiliates
+License: Apache-2.0
+
 Files: src/test/rustdoc/auxiliary/enum-primitive.rs
 Copyright: 2015 Anders Kaseorg <andersk@mit.edu>
 License: MIT
@@ -95,7 +104,7 @@ Copyright: Ike Ku, Jessica Stokes, Leon Guan
 License: MIT OR Apache-2.0
 
 Files: src/doc/rustc-dev-guide/mermaid.min.js
-Copyright: Knut Sveidqvist
+Copyright: 2014 - 2021 Knut Sveidqvist
 License: MIT
 
 # Note that the LLVM submodule here only specifies the NCSA as the license for

@@ -1,0 +1,5 @@
+af0998b7473839ca75563ba3d3e7fd0160bef235 src/doc/rust-by-example (heads/master)
+b06dab84083390e0ee1e998f466545a8a1a76a9f src/doc/rustc-dev-guide (b06dab8)
+cargo
+book (PR merged, get it into rust-lang/rust, 2023-11-07(probably already done?))
+acle in stdarch (see zulip) 2023-11-07(fix was committed, the stdarch license for acle needs to be revisited)
